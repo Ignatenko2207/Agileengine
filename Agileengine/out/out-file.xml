@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<html-element>
+    <attributes>
+        <class-name>btn btn-success</class-name>
+        <href>#ok</href>
+        <id></id>
+        <title>Make-Button</title>
+    </attributes>
+    <tag>a</tag>
+    <text>Do all GREAT</text>
+    <xpath>#page-wrapper &gt; div.row:nth-child(3) &gt; div.col-lg-8 &gt; div.panel.panel-default &gt; div.panel-footer &gt; a.btn.btn-success</xpath>
+</html-element>
